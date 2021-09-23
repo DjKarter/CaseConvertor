@@ -1,0 +1,28 @@
+.title {
+    text-align: left;
+    font-family: Courier, serif;
+    font-size: 40px;
+}
+
+#lower-case, #proper-case, #upper-case, #sentence-case, #save-text-file {
+    background-color: #008CBA;
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Courier, serif;
+
+
+}
+
+#text {
+    width: 1000px;
+    height: 400px;
+
+}
+
+#buttons {
+    width: 1000px;
+    margin-left: 5px;
+    text-align: justify;
+    text-align-last: justify;
+
+}
